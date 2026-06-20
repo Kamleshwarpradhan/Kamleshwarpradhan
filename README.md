@@ -6,11 +6,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- TODO: add your portfolio link once it's live -->
-  <a href="https://your-portfolio-link.com">
+  <a href="https://kamleshwarpradhan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <!-- TODO: add your email -->
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:kamleshwarpradhan1208@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -41,9 +41,9 @@
 **Backend**
 <!-- TODO: keep only what you actually use; add/remove freely -->
 <p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 </p>
 
 **Database & Tools**
